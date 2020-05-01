@@ -1,0 +1,16 @@
+
+  body {
+    background: #003366;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h1 {
+    font-size: 40px; font-weight: normal;
+    color: white;
+  }
+
+  a {
+      color: white;
+      font-weight: 20px;
+  }
